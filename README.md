@@ -1,0 +1,2 @@
+# RIO_KARMA_MainBoard
+帝盟经典播放器RIO KARMA的主板芯片反查结果总结分享
